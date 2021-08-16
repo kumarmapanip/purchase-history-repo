@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: rvy-purchase-history-service
+    
+eureka:
+  instance:
+    hostname: localhost
